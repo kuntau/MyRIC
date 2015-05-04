@@ -1,0 +1,2 @@
+0 detect as $null : use $len($...)
+hadd -b switch : binvar ???

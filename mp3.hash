@@ -1,0 +1,72 @@
+17`
+::: $day ::: $date(dd mmmm yyyy) ::: WâR SySTêM ::: Mp3 Player :::
+dir
+D:\Audio & Video\Mp3\English\Mix English\
+next
+0
+ran
+0
+!mode
+stereo
+!file
+Avril - Losing Grip.mp3
+remote
+0
+sel
+6
+pause
+0
+pos
+1
+con
+1
+!genre
+punk rock
+token
+!file !title !size !duration !bitrate !mode !album !artist !year !comment !genre
+!artist
+Avril Lavigne
+num
+6
+cusout
+4× Current mp3 !file 4× Size !size 4× Duration !duration 4× Bit Rate !bitrate 4× Mode !mode 4×
+!title
+Losing Grip
+insong
+D:\Audio & Video\Mp3\English\Mix English\Samantha mumba - Body II Body.mp3
+!duration
+3mins 10secs
+defcusout
+4× Current mp3 !file 4× Size !size 4× Duration !duration 4× Bit Rate !bitrate 4× Mode !mode 4×
+17.
+                         ::: Thursday ::: 20 May 2004 ::: WâR SySTêM ::: Mp3 Player :::
+17
+9
+in
+1
+toknote
+Note: Some token might be unavailable depend to your mp3 ID3
+!size
+3.17MB
+out
+0
+random
+0
+!comment
+Nice !!!
+info
+2
+17'
+::: $nopath($insong.fname) ::: $+($sound($insong.fname).bitrate,KB/s) ::: $sound($insong.fname).mode :::
+17^
+1
+!album
+Let Go
+play
+0
+!bitrate
+128KB/s
+0
+114
+prev
+0

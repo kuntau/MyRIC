@@ -1,0 +1,12 @@
+[Main]
+Title=mIRC Proxy Tester [ /PTester ]
+Name=nsm_PTester
+IconPath=
+IconIndex=0
+NoQuotes=0
+Local=0
+NoTheme=0
+Position=-1,-1,616,330
+Options=1,1,0
+ControlCount=0
+

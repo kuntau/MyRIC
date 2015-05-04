@@ -1,0 +1,10 @@
+*typEr 1.0 README*
+This script simply measures your typing speed and was designed to help you improve your typing as well. It gets random words from the internet for you to type for 1 minute, then counts only the correct words typed. Your score will always be your net speed. The speed is measured in KPM"keystrokes per minute".
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;    
+first load the script: /load -rs typEr
+to run: /typer or press F12
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+note:
+You can restart the test in the middle of one without saving the results by using /typer or F12 as well.
+
+
